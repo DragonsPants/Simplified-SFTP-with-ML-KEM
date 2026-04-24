@@ -10,7 +10,7 @@ Apoligies for not using Git in to track my changes in the first place.
 
 Instructions for how to compile and run Simplified-SFTP can be found in README-old.md, which is
 the original README file for Simplified-SFTP.
-Running S-SFTP with ML-KEM is identical to running Simplified-SFTP, as ML-KEM requires no user input
+Running S-SFTP with ML-KEM is identical to running Simplified-SFTP, as ML-KEM requires no additional user input
 to run.
 
 In order to run the test I performed to confirm that S-SFTP still runs properly with ML-KEM,
